@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Henry and I'm a student, from HIT.</p>
+<p align="left">My name is Henry Huang and I'm a student, from HIT → NUS.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Deep Learning<br>🎯 Goals: Peace and Love<br>🎲 Fun fact: Sleeping</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Machine Intelligence & Applications <br>🎯 Goals: Peace and Love<br>🎲 Fun fact: Sleeping</p>
 
 ###
 
